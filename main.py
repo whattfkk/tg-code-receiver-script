@@ -17,7 +17,6 @@ app = Client(
     "my_account",
     api_id=api_id,
     api_hash=api_hash,
-    test_mode = True,
     phone_number = phone_number
 )
 
